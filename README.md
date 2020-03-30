@@ -2,4 +2,4 @@
 A simple calculator 
 
 
-![images](/img/calc.png)
+![](/img/calc.PNG)
